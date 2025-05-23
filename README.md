@@ -1,4 +1,4 @@
-# 🧾 Applying AI for Subcontractors Sheets
+# 🧾 AI for Subcontractors Sheets
 
 ## 🧭 Overview
 **Applying AI for Subcontractors Sheets** is a Microsoft Power Automate project that automates the processing of structured subcontractor documentation uploaded to SharePoint. Using a trained AI Builder model, the flow extracts key fields from each document and sends them to an Excel file. The extracted data is then visualized in a Power BI dashboard embedded within the **Quattrofy** platform.
