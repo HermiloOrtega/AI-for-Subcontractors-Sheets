@@ -10,6 +10,11 @@ This project was developed to streamline and centralize subcontractor data colle
 
 ---
 
+### Flow
+![Screenshot](./assets/1.jpg)
+
+---
+
 ## ✨ Features & Functionality
 - **Automated Trigger** when a subcontractor sheet is uploaded to SharePoint
 - **AI-Powered Extraction** using a trained model to detect:
